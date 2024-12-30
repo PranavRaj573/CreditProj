@@ -1,9 +1,9 @@
-Overview
+Overview:
 This project focuses on credit card customer segmentation using clustering techniques. By grouping customers based on spending patterns and behaviors, the project aims to help businesses tailor services, predict trends, and enhance customer satisfaction.
 
 The solution involves multiple stages, from data cleaning and scaling to visualization and the integration of a recommendation system. Advanced analytical techniques, such as anomaly detection and time series analysis, are employed for in-depth insights.
 
-Technologies Used
+Technologies Used:
 Python: Core programming language for data analysis and machine learning.
 Pandas: Data manipulation and cleaning.
 NumPy: Efficient numerical computations.
@@ -11,6 +11,7 @@ Scikit-learn: Machine learning algorithms, including KMeans for clustering.
 Plotly: Interactive visualizations for exploring and presenting results.
 Tools Used
 Google Colab: Cloud-based IDE for coding and collaboration.
+
 The Project
 
 Importing Libraries and Uploading a Dataset:
