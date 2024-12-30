@@ -12,7 +12,7 @@ Plotly: Interactive visualizations for exploring and presenting results.
 Tools Used
 Google Colab: Cloud-based IDE for coding and collaboration.
 
-The Project
+The Project:
 
 Importing Libraries and Uploading a Dataset:
 Setting up the environment with necessary libraries and uploading the dataset for analysis.
